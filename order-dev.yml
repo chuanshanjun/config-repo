@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: ordergit
 eureka:
   client:
     service-url:
