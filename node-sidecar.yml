@@ -14,7 +14,7 @@ hystrix:
         timeout:
           enabled: false
 
-young: cool
+young: cool-cool
 
 management:
   endpoints:
