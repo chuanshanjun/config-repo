@@ -13,3 +13,11 @@ hystrix:
       execution:
         timeout:
           enabled: false
+
+young: cool
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *
