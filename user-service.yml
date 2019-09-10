@@ -7,3 +7,11 @@ eureka:
 ribbon:
   eureka:
     enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+young: cool
